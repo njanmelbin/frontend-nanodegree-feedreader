@@ -1,7 +1,7 @@
 #Project 
 
-* This project used Jasmine as the testing framework
-* For an existing application tests are being written.
+* This project uses Jasmine as the testing framework
+* For an existing application,tests are written.
 
 #Run the App
 
